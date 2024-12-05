@@ -3,7 +3,7 @@
 This repository contains all the materials and outputs for Lab 6. It includes the following tasks:
 
 ## Tasks Overview
-- **Task 1:** A notebook showcasing all outputs related to the Illinois task.
+- **Task 1:** Output related to the Illinois task.
 - **Task 2:** Two maps generated using ArcGIS.
 - **Task 3:** A notebook detailing all outputs for the function task.
 
