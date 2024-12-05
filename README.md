@@ -1,6 +1,6 @@
 # Lab 6 - Geospatial Analytics Lab
 
-This repository contains all the materials and outputs for Lab 6. It includes the following tasks:
+This repository contains all the materials and outputs for Lab 6.
 
 ## Tasks Overview
 - **Task 1:** Output related to the Illinois task.
