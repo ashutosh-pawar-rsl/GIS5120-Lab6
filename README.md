@@ -10,7 +10,7 @@ This repository contains all the materials and outputs for Lab 6. It includes th
 ## Directory Structure
 ```
 src/                # Houses the source code notebooks for each task.
-output/Task1/  # Stores notebook outputs for Task 1.
+output/Task1/  # Stores shapefile output for Task 1.
 output/Task2/  # Contains maps produced for Task 2.
 output/Task3/  # Holds notebook outputs for Task 3.
 ```
